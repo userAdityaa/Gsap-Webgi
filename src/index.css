@@ -89,6 +89,10 @@ body::-webkit-scrollbar-thumb {
   position: relative;
 }
 
+.heat{
+  height: 100px;
+}
+
 .display-section .title {
   color: #86868b;
   font-size: 17px;
@@ -328,7 +332,7 @@ nav .link-styled {
   display: flex;
   align-items: center;
   flex-direction: column;
-  /* opacity: 0; */
+  opacity: 0;
 }
 
 .sound-section .title {
